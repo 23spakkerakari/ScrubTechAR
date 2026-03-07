@@ -1,10 +1,10 @@
 names:
-- Scalpel
-- Straight Dissection Clamp
-- Straight Mayo Scissor
-- Curved Mayo Scissor
+  - Scalpel
+  - Straight Dissection Clamp
+  - Straight Mayo Scissor
+  - Curved Mayo Scissor
 nc: 4
-path: /Users/Rahul/Health AI Hackathon 2026/ScrubTechAR/dataset
+path: C:\Users\pradh\ScrubAR\ScrubTechAR\dataset
 test: images/test
 train: images/train
 val: images/val

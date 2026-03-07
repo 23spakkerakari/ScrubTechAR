@@ -1,0 +1,241 @@
+{
+  "model_path": "C:\\Users\\pradh\\ScrubAR\\ScrubTechAR\\runs\\detect\\scrubtech_v12\\weights\\best.pt",
+  "test_dir": "data/test",
+  "num_images": 17,
+  "confidence_threshold": 0.25,
+  "iou_threshold": 0.45,
+  "img_size": 640,
+  "overall_class_counts": {
+    "Straight Dissection Clamp": 1,
+    "Straight Mayo Scissor": 4,
+    "Scalpel": 1,
+    "Curved Mayo Scissor": 2
+  },
+  "overall_confidence_summary": {
+    "min": 0.25723984837532043,
+    "max": 0.5969761610031128,
+    "mean": 0.4560267776250839
+  },
+  "latency_ms": {
+    "min": 49.95800001779571,
+    "max": 457.5007000239566,
+    "mean": 91.22227647287004
+  },
+  "per_image_results": [
+    {
+      "image": "clamp2.png",
+      "latency_ms": 457.5007000239566,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\clamp2.png"
+    },
+    {
+      "image": "clamp3.png",
+      "latency_ms": 96.01020000991412,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\clamp3.png"
+    },
+    {
+      "image": "clamps1.jpg",
+      "latency_ms": 83.21429998613894,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\clamps1.jpg"
+    },
+    {
+      "image": "curved1.jpg",
+      "latency_ms": 67.17190000927076,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\curved1.jpg"
+    },
+    {
+      "image": "curved3.jpg",
+      "latency_ms": 71.31800000206567,
+      "num_detections": 1,
+      "class_counts": {
+        "Straight Dissection Clamp": 1
+      },
+      "confidence_summary": {
+        "min": 0.2623582184314728,
+        "max": 0.2623582184314728,
+        "mean": 0.2623582184314728
+      },
+      "annotated_output": "data/test_results\\annotated\\curved3.jpg"
+    },
+    {
+      "image": "curved4.jpg",
+      "latency_ms": 93.0575999955181,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\curved4.jpg"
+    },
+    {
+      "image": "curved6.png",
+      "latency_ms": 70.12220000615343,
+      "num_detections": 1,
+      "class_counts": {
+        "Straight Mayo Scissor": 1
+      },
+      "confidence_summary": {
+        "min": 0.25723984837532043,
+        "max": 0.25723984837532043,
+        "mean": 0.25723984837532043
+      },
+      "annotated_output": "data/test_results\\annotated\\curved6.png"
+    },
+    {
+      "image": "mayo1.jpg",
+      "latency_ms": 73.13229999272153,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\mayo1.jpg"
+    },
+    {
+      "image": "scalpel1.jpg",
+      "latency_ms": 61.542000010376796,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\scalpel1.jpg"
+    },
+    {
+      "image": "scalpel2.jpg",
+      "latency_ms": 57.445599988568574,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\scalpel2.jpg"
+    },
+    {
+      "image": "scalpel4.webp",
+      "latency_ms": 72.57109999773093,
+      "num_detections": 1,
+      "class_counts": {
+        "Scalpel": 1
+      },
+      "confidence_summary": {
+        "min": 0.2907189726829529,
+        "max": 0.2907189726829529,
+        "mean": 0.2907189726829529
+      },
+      "annotated_output": "data/test_results\\annotated\\scalpel4.webp"
+    },
+    {
+      "image": "scalpel5.jpg",
+      "latency_ms": 68.48109999555163,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\scalpel5.jpg"
+    },
+    {
+      "image": "scalpels3.jpg",
+      "latency_ms": 52.18759999843314,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\scalpels3.jpg"
+    },
+    {
+      "image": "straight_curved.jpg",
+      "latency_ms": 61.09110001125373,
+      "num_detections": 4,
+      "class_counts": {
+        "Straight Mayo Scissor": 2,
+        "Curved Mayo Scissor": 2
+      },
+      "confidence_summary": {
+        "min": 0.5221303105354309,
+        "max": 0.5969761610031128,
+        "mean": 0.5746474117040634
+      },
+      "annotated_output": "data/test_results\\annotated\\straight_curved.jpg"
+    },
+    {
+      "image": "straightmayo2.jpg",
+      "latency_ms": 56.7410999792628,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\straightmayo2.jpg"
+    },
+    {
+      "image": "straightmayo3.jpg",
+      "latency_ms": 59.233900014078245,
+      "num_detections": 0,
+      "class_counts": {},
+      "confidence_summary": {
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "annotated_output": "data/test_results\\annotated\\straightmayo3.jpg"
+    },
+    {
+      "image": "straightmayo4.png",
+      "latency_ms": 49.95800001779571,
+      "num_detections": 1,
+      "class_counts": {
+        "Straight Mayo Scissor": 1
+      },
+      "confidence_summary": {
+        "min": 0.5393075346946716,
+        "max": 0.5393075346946716,
+        "mean": 0.5393075346946716
+      },
+      "annotated_output": "data/test_results\\annotated\\straightmayo4.png"
+    }
+  ]
+}
