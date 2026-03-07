@@ -33,7 +33,7 @@ def parse_args():
         help="Base YOLOv11 checkpoint. Options: yolo11n.pt / yolo11s.pt / yolo11m.pt / "
              "yolo11l.pt / yolo11x.pt  (auto-downloaded on first run)."
     )
-    p.add_argument("--epochs",  type=int,   default=100)
+    p.add_argument("--epochs",  type=int,   default=10)
     p.add_argument("--batch",   type=int,   default=16,
                    help="Batch size (-1 = auto).")
     p.add_argument("--imgsz",   type=int,   default=640)
