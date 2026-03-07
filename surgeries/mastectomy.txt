@@ -1,0 +1,38 @@
+MASTECTOMY
+==========
+Source: Sklar Surgical Instruments — Standard Mastectomy Set (SKU 98-1007);
+        Surtex Instruments Mastectomy Set; StatPearls / NCBI Bookshelf.
+
+Overview:
+  Surgical removal of one or both breasts, performed for breast cancer treatment
+  or prophylaxis. Includes simple mastectomy, modified radical mastectomy (MRM),
+  and skin/nipple-sparing variants. Typical OR time: 1–3 hours.
+
+---- TRACKED TOOL COUNTS (ScrubTechAR classes) ----
+
+  Scalpel                       :  3
+    - 2× #3 knife handle  (primary skin incision and flap dissection)
+    - 1× #7 knife handle  (fine dissection around vascular structures)
+
+  Straight Dissection Clamp     : 12
+    - Crile forceps, straight 5½"           (×4)  — hemostasis along skin flaps
+    - Rochester Ochsner forceps, straight
+      1×2 teeth, 6¼"                        (×8)  — grasping, tissue traction
+
+  Straight Mayo Scissor         :  1
+    - TC Mayo dissecting scissors, straight 6¾"  — fascial/tissue cutting,
+      suture trimming at closure
+
+  Curved Mayo Scissor           :  1
+    - TC Mayo dissecting scissors, curved 6¾"    — subcutaneous flap dissection,
+      curved tissue planes
+
+---- TOTAL TRACKED TOOLS: 17 ----
+
+Additional context (not tracked by ScrubTechAR):
+  Metzenbaum scissors (3 sizes), Halsted mosquito forceps ×10, Rochester-Péan
+  curved ×14, Crile curved ×24, Allis tissue forceps ×8, Babcock forceps,
+  DeBakey atraumatic forceps, Adson forceps, Gemini clamps ×4, Richardson /
+  Volkman / Senn retractors, Mayo-Hegar needle holders, Joseph skin hooks,
+  Backhaus towel clamps, Foerster sponge forceps — see full Sklar set for
+  complete list.

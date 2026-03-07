@@ -1,0 +1,39 @@
+HIP REPLACEMENT (TOTAL HIP ARTHROPLASTY)
+=========================================
+Source: Ameri Surgical Instruments — Basic Hip Replacement Instrument Set, 72 Pieces;
+        NurseKey "Total Hip Replacement" surgical technology guide;
+        Surgical Holdings Hip Instrument Set.
+
+Overview:
+  Removal of the damaged femoral head and acetabulum cartilage/bone, replaced
+  with metal, ceramic, or polyethylene prosthetic components. Performed via
+  posterior, lateral, or anterior approach. Typical OR time: 1.5–3 hours.
+
+---- TRACKED TOOL COUNTS (ScrubTechAR classes) ----
+
+  Scalpel                       :  3
+    - 1× #4 knife handle  (deep fascial/capsular incisions)
+    - 2× #7 knife handle  (skin incision and fine periosteal dissection)
+
+  Straight Dissection Clamp     :  2
+    - Rochester Ochsner forceps, straight 8"  (×2)  — hemostasis and tissue
+      control during soft-tissue dissection around the hip capsule
+
+  Straight Mayo Scissor         :  1
+    - Mayo dissecting scissors, straight 6¾"  — cutting sutures, fascial
+      incision, and wound closure layers
+
+  Curved Mayo Scissor           :  3
+    - Mayo dissecting scissors, curved 6¾"   (×1)  — capsule dissection
+    - Mayo dissecting scissors, curved 9"    (×2)  — deeper muscle/tendon
+      dissection and retraction around the femoral neck
+
+---- TOTAL TRACKED TOOLS: 9 ----
+
+Additional context (not tracked by ScrubTechAR):
+  Metzenbaum scissors (curved 7" + 8"), Halsted mosquito forceps, Crile curved
+  forceps, Allis/Adson/Russian tissue forceps, Mayo-Hegar + Crile-Wood needle
+  holders, Hibbs osteotomes (6/10/13 mm), Beyer + Stille-Luer bone rongeurs,
+  Gerzog bone mallet, Hohmann bone elevators, Weitlaner / Hibbs / Gelpi /
+  Volkman retractors, Backhaus towel clamps, Foerster sponge forceps, metal
+  ruler, Yankauer suction tube — see full 72-piece tray for complete list.

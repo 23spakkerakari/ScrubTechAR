@@ -1,0 +1,38 @@
+AORTIC VALVE REPLACEMENT (AVR)
+==============================
+Source: Association of Surgical Technologists (AST), "Aortic Valve Replacements,"
+        The Surgical Technologist, January 2019 (Article #421); and
+        Ameri Surgical Instruments 252-Piece Open Heart Surgical Instrument Set.
+
+Overview:
+  Open-chest cardiac surgery requiring cardiopulmonary bypass in which the
+  diseased aortic valve is excised and replaced with a tissue or mechanical
+  prosthesis. Median sternotomy is performed; the heart is arrested using
+  cardioplegia solution. Typical OR time: 3–5 hours.
+
+---- TRACKED TOOL COUNTS (ScrubTechAR classes) ----
+
+  Scalpel                       :  3
+    - 1× Short #3 knife handle  (skin/sternotomy incision, #10 blade)
+    - 1× Long  #3 knife handle  (deep incisions, #11/#15 blade)
+    - 1× #7 knife handle        (delicate aortotomy incision, #11/#15 blade)
+
+  Straight Dissection Clamp     :  6
+    - Rochester-Péan forceps, straight 6¼"  (×2)  — hemostasis, tissue grasping
+    - Rochester Ochsner forceps, straight   (×4)  — traction, tagging sutures
+
+  Straight Mayo Scissor         :  1
+    - Mayo dissecting scissors, straight 6¾"  — initial pericardial opening,
+      suture cutting
+
+  Curved Mayo Scissor           :  2
+    - Mayo dissecting scissors, curved 6¾"   — mid-depth tissue dissection
+    - Mayo dissecting scissors, curved 9"    — deep cardiac/aortic dissection
+
+---- TOTAL TRACKED TOOLS: 12 ----
+
+Additional context (not tracked by ScrubTechAR):
+  Metzenbaum scissors (short + long), DeBakey forceps, sternal retractor,
+  aortic cross-clamp, Rumel tourniquets, needle holders, pituitary rongeur,
+  aortic valve sizers, sternal saw, wire cutters, Backhaus towel clamps,
+  tube clamps — see full 252-piece open-heart tray for complete list.
